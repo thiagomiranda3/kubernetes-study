@@ -1,7 +1,7 @@
 apiVersion: apps/v1
 kind: Deployment
 metadata:
-  name: frontend-rs
+  name: frontend-dp
   labels:
     app: frontend
     type: frontend
